@@ -1,0 +1,1 @@
+INSERT INTO roles(id, authority) VALUES (1,'ROLE_USER')

@@ -1,0 +1,13 @@
+.smallPic {
+    border: 1px solid orange;
+    margin-right: 5px;
+}
+
+.smallPic:hover {
+    cursor: pointer;
+}
+
+.episodeInfo{
+    margin-top: 10px;
+    border: 2px solid black;
+}

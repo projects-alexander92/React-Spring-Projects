@@ -1,0 +1,20 @@
+.wrapper {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    height: 400px;
+}
+
+.wrapper .left{
+    position: relative;
+    left: -10px;
+    bottom: 280px;
+}
+.wrapper .right{
+    position: relative;
+    left: 600px;
+    bottom: 280px;
+}
+.wrapper .left:hover, .wrapper .right:hover{
+    cursor: pointer;
+}
